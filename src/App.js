@@ -14,9 +14,9 @@ function App() {
   
   const profileData = {
     image : '/profile.jpg',
-    name : 'Akash Kumawat',
+    name : 'Sanoj Kumar',
     age : 20,
-    location : 'Jaipur',
+    location : 'Bhagalpur',
     organization : 'Masai School'
 
   }
